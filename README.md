@@ -1,4 +1,4 @@
-# Exploration 3
+# Exploration 4
 CS4830 Exploration 4 Assignment: Explore Ember.js from Job Description
 
 Explorer: Joe Wong
